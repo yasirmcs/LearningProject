@@ -1,0 +1,51 @@
+<responseData requestReference="MUC_1234567">
+    <gridItem durationMonths="60">
+      <netCustomerMonthlyRate>820</netCustomerMonthlyRate>
+      <grossCustomerMonthlyRate>975,8</grossCustomerMonthlyRate>
+      <netDealerMonthlyRate>800</netDealerMonthlyRate>
+      <grossDealerMonthlyRate>960,50</grossDealerMonthlyRate>
+      <residualValue>16000</residualValue>
+      <residualValue>15,50</residualValue>
+      <complementaryProducts>
+          <netSmartRepair>14</netSmartRepair>
+          <grossSmartRepair>20</grossSmartRepair>
+          <netGAP>20,10</netGAP>
+          <grossGAP>25,35</grossGAP>
+          <netLeasingProtect>30,50</netLeasingProtect>
+          <grossLeasingProtect>36,35</grossLeasingProtect>
+          <netExtendedWarranty>40,50</netExtendedWarranty>
+          <grossExtendedWarranty>56,35</grossExtendedWarranty>
+          <subTotalComplNetMonthly>120,50</subTotalComplNetMonthly>
+          <subTotalComplGrossMonthly>140,50</subTotalComplGrossMonthly>
+      </complementaryProducts>
+      <totalNetCustomerMonthly>940,50</totalNetCustomerMonthly>
+      <totalGrossCustomerMonthly>1115,50</totalGrossCustomerMonthly>
+      <totalNetDealerMonthly>920,50</totalNetDealerMonthly>
+      <totalGrossDealerMonthly>1105,50</totalGrossDealerMonthly>
+    </gridItem>
+
+    <gridItem durationMonths="54">
+        <netCustomerMonthlyRate>820</netCustomerMonthlyRate>
+        <grossCustomerMonthlyRate>975,8</grossCustomerMonthlyRate>
+        <netDealerMonthlyRate>800</netDealerMonthlyRate>
+        <grossDealerMonthlyRate>960,50</grossDealerMonthlyRate>
+        <residualValue>16000</residualValue>
+        <residualValue>15,50</residualValue>
+        <complementaryProducts>
+            <netSmartRepair>14</netSmartRepair>
+            <grossSmartRepair>20</grossSmartRepair>
+            <netGAP>20,10</netGAP>
+            <grossGAP>25,35</grossGAP>
+            <netLeasingProtect>30,50</netLeasingProtect>
+            <grossLeasingProtect>36,35</grossLeasingProtect>
+            <netExtendedWarranty>40,50</netExtendedWarranty>
+            <grossExtendedWarranty>56,35</grossExtendedWarranty>
+            <subTotalComplNetMonthly>120,50</subTotalComplNetMonthly>
+            <subTotalComplGrossMonthly>140,50</subTotalComplGrossMonthly>
+        </complementaryProducts>
+        <totalNetCustomerMonthly>940,50</totalNetCustomerMonthly>
+        <totalGrossCustomerMonthly>1115,50</totalGrossCustomerMonthly>
+        <totalNetDealerMonthly>920,50</totalNetDealerMonthly>
+        <totalGrossDealerMonthly>1105,50</totalGrossDealerMonthly>
+    </gridItem>
+</responseData>

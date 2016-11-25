@@ -1,0 +1,166 @@
+<responseData requestReference="MUC_1234567">
+<!--
+    CarData{totalValue=75000, residualValue=16000, isCarNew=true}
+    LeasingData{numInstallMonths=[60,54,48,42,36,30], customerInterestRate=3,75,
+    dealerInterestRate=4,75, advancePayment=15000}
+-->
+
+    <gridItem durationMonths="60">
+        <!-- somewhat realistic values -->
+      <netCustomerMonthlyRate>1129,93</netCustomerMonthlyRate>
+      <grossCustomerMonthlyRate>1344,6167</grossCustomerMonthlyRate>
+      <netDealerMonthlyRate>1169,97</netDealerMonthlyRate>
+      <grossDealerMonthlyRate>1392,2643</grossDealerMonthlyRate>
+      <residualValue>16000</residualValue>
+      <residualValue>21,333</residualValue>
+      <complementaryProducts> <!-- arbitary sample values -->
+          <netSmartRepair>14</netSmartRepair>
+          <grossSmartRepair>20</grossSmartRepair>
+          <netGAP>20,10</netGAP>
+          <grossGAP>25,35</grossGAP>
+          <netLeasingProtect>30,50</netLeasingProtect>
+          <grossLeasingProtect>36,35</grossLeasingProtect>
+          <netExtendedWarranty>40,50</netExtendedWarranty>
+          <grossExtendedWarranty>56,35</grossExtendedWarranty>
+          <subTotalComplNetMonthly>120,50</subTotalComplNetMonthly>
+          <subTotalComplGrossMonthly>140,50</subTotalComplGrossMonthly>
+      </complementaryProducts>
+        <!-- arbitary sample values -->
+      <totalNetCustomerMonthly>940,50</totalNetCustomerMonthly>
+      <totalGrossCustomerMonthly>1115,50</totalGrossCustomerMonthly>
+      <totalNetDealerMonthly>920,50</totalNetDealerMonthly>
+      <totalGrossDealerMonthly>1105,50</totalGrossDealerMonthly>
+    </gridItem>
+
+    <gridItem durationMonths="54">
+        <!-- somewhat realistic values -->
+        <netCustomerMonthlyRate>1239,07</netCustomerMonthlyRate>
+        <grossCustomerMonthlyRate>1474,4933</grossCustomerMonthlyRate>
+        <netDealerMonthlyRate>1278,99</netDealerMonthlyRate>
+        <grossDealerMonthlyRate>1521,9981</grossDealerMonthlyRate>
+        <residualValue>16000</residualValue>
+        <residualValue>21,333</residualValue>
+        <complementaryProducts> <!-- arbitary sample values -->
+            <netSmartRepair>14</netSmartRepair>
+            <grossSmartRepair>20</grossSmartRepair>
+            <netGAP>20,10</netGAP>
+            <grossGAP>25,35</grossGAP>
+            <netLeasingProtect>30,50</netLeasingProtect>
+            <grossLeasingProtect>36,35</grossLeasingProtect>
+            <netExtendedWarranty>40,50</netExtendedWarranty>
+            <grossExtendedWarranty>56,35</grossExtendedWarranty>
+            <subTotalComplNetMonthly>120,50</subTotalComplNetMonthly>
+            <subTotalComplGrossMonthly>140,50</subTotalComplGrossMonthly>
+        </complementaryProducts>
+        <!-- arbitary sample values -->
+        <totalNetCustomerMonthly>1239,07</totalNetCustomerMonthly>
+        <totalGrossCustomerMonthly>1474,4933</totalGrossCustomerMonthly>
+        <totalNetDealerMonthly>920,50</totalNetDealerMonthly>
+        <totalGrossDealerMonthly>1105,50</totalGrossDealerMonthly>
+    </gridItem>
+
+    <gridItem durationMonths="48">
+        <!-- somewhat realistic values -->
+        <netCustomerMonthlyRate>1375,57</netCustomerMonthlyRate>
+        <grossCustomerMonthlyRate>1636,9283</grossCustomerMonthlyRate>
+        <netDealerMonthlyRate>1415,38</netDealerMonthlyRate>
+        <grossDealerMonthlyRate>1684,3022</grossDealerMonthlyRate>
+        <residualValue>16000</residualValue>
+        <residualValue>21,333</residualValue>
+        <complementaryProducts> <!-- arbitary sample values -->
+            <netSmartRepair>14</netSmartRepair>
+            <grossSmartRepair>20</grossSmartRepair>
+            <netGAP>20,10</netGAP>
+            <grossGAP>25,35</grossGAP>
+            <netLeasingProtect>30,50</netLeasingProtect>
+            <grossLeasingProtect>36,35</grossLeasingProtect>
+            <netExtendedWarranty>40,50</netExtendedWarranty>
+            <grossExtendedWarranty>56,35</grossExtendedWarranty>
+            <subTotalComplNetMonthly>120,50</subTotalComplNetMonthly>
+            <subTotalComplGrossMonthly>140,50</subTotalComplGrossMonthly>
+        </complementaryProducts>
+        <!-- arbitary sample values -->
+        <totalNetCustomerMonthly>1239,07</totalNetCustomerMonthly>
+        <totalGrossCustomerMonthly>1474,4933</totalGrossCustomerMonthly>
+        <totalNetDealerMonthly>920,50</totalNetDealerMonthly>
+        <totalGrossDealerMonthly>1105,50</totalGrossDealerMonthly>
+    </gridItem>
+    <gridItem durationMonths="42">
+        <!-- somewhat realistic values -->
+        <netCustomerMonthlyRate>1551,16</netCustomerMonthlyRate>
+        <grossCustomerMonthlyRate>1845,8804</grossCustomerMonthlyRate>
+        <netDealerMonthlyRate>1590,85</netDealerMonthlyRate>
+        <grossDealerMonthlyRate>1893,1115</grossDealerMonthlyRate>
+        <residualValue>16000</residualValue>
+        <residualValue>21,333</residualValue>
+        <complementaryProducts> <!-- arbitary sample values -->
+            <netSmartRepair>14</netSmartRepair>
+            <grossSmartRepair>20</grossSmartRepair>
+            <netGAP>20,10</netGAP>
+            <grossGAP>25,35</grossGAP>
+            <netLeasingProtect>30,50</netLeasingProtect>
+            <grossLeasingProtect>36,35</grossLeasingProtect>
+            <netExtendedWarranty>40,50</netExtendedWarranty>
+            <grossExtendedWarranty>56,35</grossExtendedWarranty>
+            <subTotalComplNetMonthly>120,50</subTotalComplNetMonthly>
+            <subTotalComplGrossMonthly>140,50</subTotalComplGrossMonthly>
+        </complementaryProducts>
+        <!-- arbitary sample values -->
+        <totalNetCustomerMonthly>1239,07</totalNetCustomerMonthly>
+        <totalGrossCustomerMonthly>1474,4933</totalGrossCustomerMonthly>
+        <totalNetDealerMonthly>920,50</totalNetDealerMonthly>
+        <totalGrossDealerMonthly>1105,50</totalGrossDealerMonthly>
+    </gridItem>
+    <gridItem durationMonths="36">
+        <!-- somewhat realistic values -->
+        <netCustomerMonthlyRate>1785,36</netCustomerMonthlyRate>
+        <grossCustomerMonthlyRate>2124,5784</grossCustomerMonthlyRate>
+        <netDealerMonthlyRate>1824,99</netDealerMonthlyRate>
+        <grossDealerMonthlyRate>2171,7381</grossDealerMonthlyRate>
+        <residualValue>16000</residualValue>
+        <residualValue>21,333</residualValue>
+        <complementaryProducts> <!-- arbitary sample values -->
+            <netSmartRepair>14</netSmartRepair>
+            <grossSmartRepair>20</grossSmartRepair>
+            <netGAP>20,10</netGAP>
+            <grossGAP>25,35</grossGAP>
+            <netLeasingProtect>30,50</netLeasingProtect>
+            <grossLeasingProtect>36,35</grossLeasingProtect>
+            <netExtendedWarranty>40,50</netExtendedWarranty>
+            <grossExtendedWarranty>56,35</grossExtendedWarranty>
+            <subTotalComplNetMonthly>120,50</subTotalComplNetMonthly>
+            <subTotalComplGrossMonthly>140,50</subTotalComplGrossMonthly>
+        </complementaryProducts>
+        <!-- arbitary sample values -->
+        <totalNetCustomerMonthly>1239,07</totalNetCustomerMonthly>
+        <totalGrossCustomerMonthly>1474,4933</totalGrossCustomerMonthly>
+        <totalNetDealerMonthly>920,50</totalNetDealerMonthly>
+        <totalGrossDealerMonthly>1105,50</totalGrossDealerMonthly>
+    </gridItem>
+    <gridItem durationMonths="32">
+        <!-- somewhat realistic values -->
+        <netCustomerMonthlyRate>2113,35</netCustomerMonthlyRate>
+        <grossCustomerMonthlyRate>2514,8865</grossCustomerMonthlyRate>
+        <netDealerMonthlyRate>2152,95</netDealerMonthlyRate>
+        <grossDealerMonthlyRate>2562,0105</grossDealerMonthlyRate>
+        <residualValue>16000</residualValue>
+        <residualValue>21,333</residualValue>
+        <complementaryProducts> <!-- arbitary sample values -->
+            <netSmartRepair>14</netSmartRepair>
+            <grossSmartRepair>20</grossSmartRepair>
+            <netGAP>20,10</netGAP>
+            <grossGAP>25,35</grossGAP>
+            <netLeasingProtect>30,50</netLeasingProtect>
+            <grossLeasingProtect>36,35</grossLeasingProtect>
+            <netExtendedWarranty>40,50</netExtendedWarranty>
+            <grossExtendedWarranty>56,35</grossExtendedWarranty>
+            <subTotalComplNetMonthly>120,50</subTotalComplNetMonthly>
+            <subTotalComplGrossMonthly>140,50</subTotalComplGrossMonthly>
+        </complementaryProducts>
+        <!-- arbitary sample values -->
+        <totalNetCustomerMonthly>1239,07</totalNetCustomerMonthly>
+        <totalGrossCustomerMonthly>1474,4933</totalGrossCustomerMonthly>
+        <totalNetDealerMonthly>920,50</totalNetDealerMonthly>
+        <totalGrossDealerMonthly>1105,50</totalGrossDealerMonthly>
+    </gridItem>
+</responseData>
